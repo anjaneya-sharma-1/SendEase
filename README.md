@@ -42,8 +42,6 @@ pip install -r requirements.txt
 
 1. Create a `.env` file in the project root directory with your email credentials:
 ```
-EMAIL_ADDRESS=your_email@example.com
-EMAIL_PASSWORD=your_password
 SMTP_SERVER=smtp.example.com
 SMTP_PORT=587
 ```
