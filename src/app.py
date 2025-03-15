@@ -15,10 +15,10 @@ from src.components.email_form import email_form
 from src.components.email_sender import send_emails
 
 
-st.set_page_config(page_title="Email Sender App", page_icon="✉️")
+st.set_page_config(page_title="SendEase", page_icon="✉️")
 
 def main():
-    st.title("Bulk Email Sender")
+    st.title("SendEase")
     st.write("Send personalized emails to multiple recipients using an Excel file")
     
   
